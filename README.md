@@ -7,6 +7,4 @@ Calendar Display modified
 
 # 2nd screen Temperature and alarm
 
-
-![Screenshot from 2021-04-04 21-44-29](https://user-images.githubusercontent.com/57550046/113528645-2d6e5700-958f-11eb-8627-72ab41183fff.png)
-
+![Screenshot from 2021-04-04 21-44-29](https://user-images.githubusercontent.com/57550046/113528985-3875b700-9590-11eb-9dda-bd8501ccb3a6.png)
