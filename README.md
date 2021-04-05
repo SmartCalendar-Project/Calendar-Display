@@ -8,3 +8,7 @@ Calendar Display modified
 # 2nd screen Temperature and alarm
 
 ![Screenshot from 2021-04-04 21-44-29](https://user-images.githubusercontent.com/57550046/113528985-3875b700-9590-11eb-9dda-bd8501ccb3a6.png)
+
+# Memo dialog box
+
+![Screenshot from 2021-04-04 22-48-47](https://user-images.githubusercontent.com/60012955/113532037-68c15380-9598-11eb-94df-805d85707afe.png)
